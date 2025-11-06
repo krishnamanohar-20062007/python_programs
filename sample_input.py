@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+a=float(input("Enter any number:"))
+y=bool(int(input("Enter:")))
+print(y)
+print("Nice to meet you ",name)
+print(a)
